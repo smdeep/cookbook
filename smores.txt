@@ -27,3 +27,5 @@ simmer the aloo gobi 18 to 20 minutes on a low flame. timing will vary with the 
 in between for a couple of times, remove the lid and stir the aloo gobi well. cover and then again continue to cook. do not add any water.
 once the potatoes and cauliflower have cooked, sprinkle garam masala powder and mix it with the entire sabzi
 serve aloo gobi with rotis or parathas and a bowl of curd/yogurt. or bread. the recipe also makes for a tiffin box brunch or lunch. if you want you can garnish aloo gobi with a few coriander leaves.
+
+#just added to check the diff command
