@@ -29,3 +29,4 @@ once the potatoes and cauliflower have cooked, sprinkle garam masala powder and 
 serve aloo gobi with rotis or parathas and a bowl of curd/yogurt. or bread. the recipe also makes for a tiffin box brunch or lunch. if you want you can garnish aloo gobi with a few coriander leaves.
 
 #just added to check the diff command
+#adding another command to test: git checkout master
